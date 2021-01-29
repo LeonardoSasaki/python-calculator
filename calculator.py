@@ -1,0 +1,1 @@
+eval(f"print({input()})")
